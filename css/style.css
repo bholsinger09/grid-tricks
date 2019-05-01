@@ -1,0 +1,33 @@
+.container{
+  outline-style: dashed;
+  outline-color: black;
+  height: 10vh;
+}
+
+.row{
+  outline-style: dotted;
+  outline-color: aquamarine;
+  height: 10vh;
+}
+
+.col{
+  outline-style: solid;
+  outline-color: blue;
+  height: 10vh;
+}
+.col-sm {
+  outline-style: dotted;
+  outline-color: yellow;
+  height: 10vh;
+}
+.col-md {
+  outline-style: dotted;
+  outline-color:green;
+  height: 10vh;
+}
+
+.col-lg {
+  outline-style: dotted;
+  outline-color:orange;
+  height: 10vh;
+}
